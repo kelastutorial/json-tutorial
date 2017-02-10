@@ -15,7 +15,7 @@ JSON merupakan format teks yang tidak bergantung pada bahasa pemprograman apapun
 
 Dibawah ini adalah tutorial yang ada di kelastutorial :
 
-* Pendahuluan [kelastutorial.com/json](https://kelastutorial.com/json)
+* [Pendahuluan](https://kelastutorial.com/json)
 * **JSON Dasar**
 * [Pengenalan JSON](https://kelastutorial.com/json/pengenalan-json.html)
 * [Syntax Penulisan JSON](https://kelastutorial.com/json/syntax-penulisan-json.html)
