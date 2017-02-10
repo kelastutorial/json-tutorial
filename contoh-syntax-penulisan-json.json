@@ -1,0 +1,26 @@
+{
+   "hewan": [
+	
+      {
+         "id":"01",
+         "nama": "Singa",
+         "jenis": "mamalia",
+         "deskripsi": "Memiliki 4 kaki dengan tubuh besar dan bulu berwarna coklat, pemakan daging",
+      },
+		
+      {
+         "id":"02",
+         "nama": "Kuda",
+         "jenis": "mamalia",
+         "deskripsi": "Memiliki 4 kaki dengan tubuh yang besar, pemakan rumput",
+      },
+		
+      {
+         "id":"03",
+         "nama": "Ular",
+         "jenis": "Reptil",
+         "deskripsi": "Memiliki tubuh yang panjang tanpa kaki, memiliki kulit sisik, pemakan daging"
+      }
+		
+   ]
+}
