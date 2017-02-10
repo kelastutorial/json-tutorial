@@ -15,12 +15,13 @@ JSON merupakan format teks yang tidak bergantung pada bahasa pemprograman apapun
 
 Dibawah ini adalah tutorial yang ada di kelastutorial :
 
+* Pendahuluan [kelastutorial.com/json](https://kelastutorial.com/json)
+**JSON Dasar**
 
-##For more information
-
-* [TensorFlow website](http://tensorflow.org)
-* [TensorFlow whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-* [TensorFlow Model Zoo](https://github.com/tensorflow/models)
-* [TensorFlow MOOC on Udacity](https://www.udacity.com/course/deep-learning--ud730)
+* Pengenalan JSON [kelastutorial.com/json/pengenalan-json.html](https://kelastutorial.com/json/pengenalan-json.html)
+* Syntax Penulisan JSON [kelastutorial.com/json/syntax-penulisan-json.html](https://kelastutorial.com/json/syntax-penulisan-json.html)
+* Tipe Data JSON [kelastutorial.com/json/tipe-data-json.html](https://kelastutorial.com/json/tipe-data-json.html)
+* Objek JSON [kelastutorial.com/json/objek-json.html](https://kelastutorial.com/json/objek-json.html)
+* Schema JSON [kelastutorial.com/json/schema-json.html](https://kelastutorial.com/json/schema-json.html)
 
 Kelastutorial adalah website yang terbuka. Kami sangat mengharapkan Anda untuk ikut berkontribusi untuk menyediakan pendidikan gratis untuk semua orang.
