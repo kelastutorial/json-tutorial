@@ -1,0 +1,48 @@
+<html>
+   <head>
+      <title>Pembuatan objek array pada javascript menggunakan JSON</title>
+		
+      <script language = "javascript" >
+
+         document.writeln("<h2>Objek Array JSON</h2>");
+
+         var books = { "Python" : [ 
+            { "Nama"  : "Python Made Simple", "Harga" : 700 },
+            { "Nama"  : "Guide to Python", "Harga" : 400 }],  
+				
+            "PHP"  : [
+               { "Nama"  : "PHP for the Impatient", "Harga" : 1000 }, 
+               { "Nama"  : "PHP in Depth", "Harga" : 1300 }]    
+         }    
+
+         var i = 0
+         document.writeln("<table border = '2'><tr>");
+			
+         for(i = 0;i<books.Python.length;i++){	
+            document.writeln("<td>");
+            document.writeln("<table border = '1' width = 100 >");
+            document.writeln("<tr><td><b>Nama</b></td><td width = 50>" + books.Python[i].Nama+"</td></tr>");
+            document.writeln("<tr><td><b>Harga</b></td><td width = 50>" + books.Python[i].Harga +"</td></tr>");
+            document.writeln("</table>");
+            document.writeln("</td>");
+         }
+
+         for(i = 0;i<books.PHP.length;i++){
+            document.writeln("<td>");
+            document.writeln("<table border = '1' width = 100 >");
+            document.writeln("<tr><td><b>Nama</b></td><td width = 50>" + books.PHP[i].Nama+"</td></tr>");
+            document.writeln("<tr><td><b>Harga</b></td><td width = 50>" + books.PHP[i].Harga+"</td></tr>");
+            document.writeln("</table>");
+            document.writeln("</td>");
+         }
+			
+         document.writeln("</tr></table>");
+
+      </script>
+
+   </head>
+	
+   <body>
+   </body>
+	
+</html>
