@@ -1,0 +1,7 @@
+{
+   "buku": [
+      { "bahasa":"Java" , "edisi":"pertama" },
+      { "bahasa":"C++" , "edisi":"kedua" },
+      { "bahasa":"C" , "edisi":"ketiga" }
+   ]
+}
