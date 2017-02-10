@@ -1,0 +1,18 @@
+{
+   "mahasiswa": [
+	
+      {
+         "id":"01",
+         "nim": "0112123123",
+         "nama": "Andi Maulana",
+         "jurusan": "Teknik Informatika"
+      },
+	
+      {
+         "id":"02",
+         "nim": "0112123124",
+         "nama": "Anita Sari",
+         "jurusan": "Teknik Informatika"
+      }
+   ]
+}
